@@ -1,0 +1,202 @@
+[
+    {
+        "name": "equal",
+        "id": "#ledmggye",
+        "pos": [
+            1158,
+            425
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#ljpwneea"
+                ],
+                "#usqveklo",
+                "BOOL_TYPE",
+                false
+            ],
+            [
+                "socket_input_1",
+                "#qukcmuyt",
+                [],
+                "#vpphljbd",
+                "NUMBER_TYPE",
+                null
+            ],
+            [
+                "socket_input_2",
+                "#dsgcjcvl",
+                [],
+                "#cenltkls",
+                "STRING_TYPE",
+                "None"
+            ]
+        ]
+    },
+    {
+        "name": "int",
+        "id": "#tjeispti",
+        "pos": [
+            996,
+            351
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#qpupuhvq",
+                [],
+                "#ysyoynou",
+                "STRING_TYPE",
+                ""
+            ],
+            [
+                "socket_output",
+                null,
+                [
+                    "#vpphljbd"
+                ],
+                "#qukcmuyt",
+                "NUMBER_TYPE",
+                null
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#nqbmcqwt",
+                "ERROR_TYPE",
+                {
+                    "type": "Not mutable type!",
+                    "error": true
+                }
+            ]
+        ]
+    },
+    {
+        "name": "int",
+        "id": "#nnbrajrf",
+        "pos": [
+            869,
+            497
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#uiefeqgt",
+                [],
+                "#mhhdtwsp",
+                "STRING_TYPE",
+                ""
+            ],
+            [
+                "socket_output",
+                null,
+                [
+                    "#vledikuc"
+                ],
+                "#zczwggou",
+                "NUMBER_TYPE",
+                null
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#qtwzfqew",
+                "ERROR_TYPE",
+                {
+                    "type": "Not mutable type!",
+                    "error": true
+                }
+            ]
+        ]
+    },
+    {
+        "name": "string",
+        "id": "#pavelqth",
+        "pos": [
+            992,
+            501
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#zczwggou",
+                [],
+                "#vledikuc",
+                "NUMBER_TYPE",
+                null
+            ],
+            [
+                "socket_output",
+                null,
+                [
+                    "#cenltkls"
+                ],
+                "#dsgcjcvl",
+                "STRING_TYPE",
+                "None"
+            ]
+        ]
+    },
+    {
+        "name": "input",
+        "id": "#kkelffes",
+        "pos": [
+            747,
+            321
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#ysyoynou"
+                ],
+                "#qpupuhvq",
+                "STRING_TYPE",
+                ""
+            ]
+        ]
+    },
+    {
+        "name": "input",
+        "id": "#gzgpgpdp",
+        "pos": [
+            745,
+            522
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#mhhdtwsp"
+                ],
+                "#uiefeqgt",
+                "STRING_TYPE",
+                ""
+            ]
+        ]
+    },
+    {
+        "name": "print",
+        "id": "#ssgqvtau",
+        "pos": [
+            1382,
+            430
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#usqveklo",
+                [],
+                "#ljpwneea",
+                "BOOL_TYPE",
+                false
+            ]
+        ]
+    }
+]

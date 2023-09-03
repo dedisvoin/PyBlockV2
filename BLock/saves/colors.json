@@ -1,0 +1,228 @@
+[
+    {
+        "name": "equal",
+        "id": "#uunmalau",
+        "pos": [
+            682,
+            219
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#usjmjmrl"
+                ],
+                "#zqhhlngm",
+                "BOOL_TYPE",
+                true
+            ],
+            [
+                "socket_input_1",
+                "#jaqnoaht",
+                [],
+                "#zrqtvizp",
+                "LIST_TYPE",
+                [
+                    119,
+                    0,
+                    0
+                ]
+            ],
+            [
+                "socket_input_2",
+                "#qbowdkam",
+                [],
+                "#mellwtuc",
+                "LIST_TYPE",
+                [
+                    119,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    {
+        "name": "color",
+        "id": "#ompjbjzl",
+        "pos": [
+            394,
+            89
+        ],
+        "points": [
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#qgqfmuue",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#vonqnzjn",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_3",
+                null,
+                [],
+                "#oksmijdh",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_output",
+                null,
+                [
+                    "#zrqtvizp",
+                    "#rsdehjmy"
+                ],
+                "#jaqnoaht",
+                "LIST_TYPE",
+                [
+                    119,
+                    0,
+                    0
+                ]
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#kyfricsn",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "color",
+        "id": "#jpjzyvgq",
+        "pos": [
+            395,
+            210
+        ],
+        "points": [
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#lqavoyni",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#cnvqcpjh",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_3",
+                null,
+                [],
+                "#ztycajtl",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_output",
+                null,
+                [
+                    "#mellwtuc",
+                    "#ooohtkoy"
+                ],
+                "#qbowdkam",
+                "LIST_TYPE",
+                [
+                    119,
+                    0,
+                    0
+                ]
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#dzgoysae",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "print",
+        "id": "#rgfikfdv",
+        "pos": [
+            935,
+            228
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#zqhhlngm",
+                [],
+                "#usjmjmrl",
+                "BOOL_TYPE",
+                true
+            ]
+        ]
+    },
+    {
+        "name": "print",
+        "id": "#hcbcpomp",
+        "pos": [
+            683,
+            166
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#jaqnoaht",
+                [],
+                "#rsdehjmy",
+                "LIST_TYPE",
+                [
+                    119,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    {
+        "name": "print",
+        "id": "#bvqdckyt",
+        "pos": [
+            683,
+            291
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#qbowdkam",
+                [],
+                "#ooohtkoy",
+                "LIST_TYPE",
+                [
+                    119,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    }
+]

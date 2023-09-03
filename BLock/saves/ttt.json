@@ -1,0 +1,380 @@
+[
+    {
+        "name": "split",
+        "id": "#uoyjdevj",
+        "pos": [
+            819,
+            468
+        ],
+        "points": [
+            [
+                "socket_input_1",
+                "#aesnddeo",
+                [],
+                "#kjgymkah",
+                "STRING_TYPE",
+                "hello my mom ded papa csrv fwe 1313 131s"
+            ],
+            [
+                "socket_input_2",
+                "#qzdeyojt",
+                [],
+                "#egkhpbcg",
+                "STRING_TYPE",
+                " "
+            ],
+            [
+                "socket_output",
+                null,
+                [
+                    "#bhwldpgb",
+                    "#tdifssfr"
+                ],
+                "#ueicdipf",
+                "LIST_TYPE",
+                [
+                    "hello",
+                    "my",
+                    "mom",
+                    "ded",
+                    "papa",
+                    "csrv",
+                    "fwe",
+                    "1313",
+                    "131s"
+                ]
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#vequprkt",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "input",
+        "id": "#owftknhe",
+        "pos": [
+            420,
+            237
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#kjgymkah"
+                ],
+                "#aesnddeo",
+                "STRING_TYPE",
+                "hello my mom ded papa csrv fwe 1313 131s"
+            ]
+        ]
+    },
+    {
+        "name": "input",
+        "id": "#lglrfjhb",
+        "pos": [
+            568,
+            381
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#egkhpbcg"
+                ],
+                "#qzdeyojt",
+                "STRING_TYPE",
+                " "
+            ]
+        ]
+    },
+    {
+        "name": "print",
+        "id": "#cejubvsl",
+        "pos": [
+            1555,
+            326
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#actuwduy",
+                [],
+                "#tkkidsns",
+                "ANY_TYPE",
+                "ded"
+            ]
+        ]
+    },
+    {
+        "name": "len",
+        "id": "#ynsswajv",
+        "pos": [
+            922,
+            330
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#ueicdipf",
+                [],
+                "#bhwldpgb",
+                "LIST_TYPE",
+                [
+                    "hello",
+                    "my",
+                    "mom",
+                    "ded",
+                    "papa",
+                    "csrv",
+                    "fwe",
+                    "1313",
+                    "131s"
+                ]
+            ],
+            [
+                "socket_output",
+                null,
+                [
+                    "#fhlfeqyu"
+                ],
+                "#zkgrqqra",
+                "NUMBER_TYPE",
+                9
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#clbwiwdj",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "math",
+        "id": "#wqrtjbhz",
+        "pos": [
+            1101,
+            403
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#uehnpmey"
+                ],
+                "#fruifapa",
+                "NUMBER_TYPE",
+                8
+            ],
+            [
+                "socket_input_1",
+                "#zkgrqqra",
+                [],
+                "#fhlfeqyu",
+                "NUMBER_TYPE",
+                9
+            ],
+            [
+                "socket_input_2",
+                "#mbzvqvaj",
+                [],
+                "#nqsyauuk",
+                "NUMBER_TYPE",
+                1
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#bwbdcbrn",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "number",
+        "id": "#uvtmdsvm",
+        "pos": [
+            1053,
+            282
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#nqsyauuk"
+                ],
+                "#mbzvqvaj",
+                "NUMBER_TYPE",
+                1
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ydmzftus",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#omovacjm",
+        "pos": [
+            1265,
+            315
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#zajqqcab"
+                ],
+                "#acwifdhk",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                "#ejlunehe",
+                [],
+                "#lrolgluj",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                "#fruifapa",
+                [],
+                "#uehnpmey",
+                "NUMBER_TYPE",
+                8
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#opukobze",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "number",
+        "id": "#ujnlvcye",
+        "pos": [
+            1077,
+            180
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#lrolgluj"
+                ],
+                "#ejlunehe",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#tcijbzab",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "get",
+        "id": "#hmgcfsuq",
+        "pos": [
+            1095,
+            666
+        ],
+        "points": [
+            [
+                "socket_input_1",
+                "#ueicdipf",
+                [],
+                "#tdifssfr",
+                "LIST_TYPE",
+                [
+                    "hello",
+                    "my",
+                    "mom",
+                    "ded",
+                    "papa",
+                    "csrv",
+                    "fwe",
+                    "1313",
+                    "131s"
+                ]
+            ],
+            [
+                "socket_input_2",
+                "#acwifdhk",
+                [],
+                "#zajqqcab",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_output",
+                null,
+                [
+                    "#tkkidsns"
+                ],
+                "#actuwduy",
+                "ANY_TYPE",
+                "ded"
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#lzejvatd",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    }
+]

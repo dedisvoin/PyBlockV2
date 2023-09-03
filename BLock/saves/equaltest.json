@@ -1,0 +1,233 @@
+[
+    {
+        "name": "not",
+        "id": "#svgypkod",
+        "pos": [
+            655,
+            198
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#nfoaczmr",
+                [],
+                "#kqmyvklg",
+                "STRING_TYPE",
+                "20"
+            ],
+            [
+                "socket_output",
+                null,
+                [
+                    "#nbcwshbg"
+                ],
+                "#fenctfbr",
+                "BOOL_TYPE",
+                null
+            ],
+            [
+                "socket_error_output",
+                null,
+                [
+                    "#jrlfmden",
+                    "#uhnqrlcl"
+                ],
+                "#jpntmlcs",
+                "ERROR_TYPE",
+                {
+                    "type": "Bool type not detect!",
+                    "error": true
+                }
+            ]
+        ]
+    },
+    {
+        "name": "input",
+        "id": "#bqhfilfe",
+        "pos": [
+            369,
+            162
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#rqpfhlcp"
+                ],
+                "#cgzwbubz",
+                "STRING_TYPE",
+                "100"
+            ]
+        ]
+    },
+    {
+        "name": "equal",
+        "id": "#sgefwadc",
+        "pos": [
+            507,
+            201
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#luqabael",
+                "BOOL_TYPE",
+                false
+            ],
+            [
+                "socket_input_1",
+                "#cgzwbubz",
+                [],
+                "#rqpfhlcp",
+                "STRING_TYPE",
+                "100"
+            ],
+            [
+                "socket_input_2",
+                "#jvqkeqrp",
+                [],
+                "#permkyte",
+                "STRING_TYPE",
+                "10"
+            ]
+        ]
+    },
+    {
+        "name": "print",
+        "id": "#rekuusuf",
+        "pos": [
+            949,
+            115
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#fenctfbr",
+                [],
+                "#nbcwshbg",
+                "BOOL_TYPE",
+                null
+            ]
+        ]
+    },
+    {
+        "name": "print",
+        "id": "#nqawdsiq",
+        "pos": [
+            1027,
+            313
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#tstcdkaz",
+                [],
+                "#eqwdvjhi",
+                "STRING_TYPE",
+                "Bool type not detect!"
+            ]
+        ]
+    },
+    {
+        "name": "print",
+        "id": "#fdhlhakz",
+        "pos": [
+            1028,
+            368
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#fjkujadm",
+                [],
+                "#mzmiwzla",
+                "BOOL_TYPE",
+                true
+            ]
+        ]
+    },
+    {
+        "name": "error",
+        "id": "#zfureggk",
+        "pos": [
+            889,
+            320
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#jpntmlcs",
+                [],
+                "#uhnqrlcl",
+                "ERROR_TYPE",
+                {
+                    "type": "Bool type not detect!",
+                    "error": true
+                }
+            ],
+            [
+                "socket_output_1",
+                null,
+                [
+                    "#eqwdvjhi"
+                ],
+                "#tstcdkaz",
+                "STRING_TYPE",
+                "Bool type not detect!"
+            ],
+            [
+                "socket_output_2",
+                null,
+                [
+                    "#mzmiwzla"
+                ],
+                "#fjkujadm",
+                "BOOL_TYPE",
+                true
+            ]
+        ]
+    },
+    {
+        "name": "input",
+        "id": "#qylqwsga",
+        "pos": [
+            370,
+            289
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#permkyte"
+                ],
+                "#jvqkeqrp",
+                "STRING_TYPE",
+                "10"
+            ]
+        ]
+    },
+    {
+        "name": "input",
+        "id": "#arnjmwod",
+        "pos": [
+            479,
+            94
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#kqmyvklg"
+                ],
+                "#nfoaczmr",
+                "STRING_TYPE",
+                "20"
+            ]
+        ]
+    }
+]

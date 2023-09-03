@@ -1,0 +1,80 @@
+[
+    {
+        "name": "int",
+        "id": "#cgipdlmq",
+        "pos": [
+            930,
+            463
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#dejodidj",
+                [],
+                "#ulctrens",
+                "STRING_TYPE",
+                ""
+            ],
+            [
+                "socket_output",
+                null,
+                [
+                    "#mnunvbij",
+                    "#ltzuiqkl"
+                ],
+                "#ncsjpvbr",
+                "NUMBER_TYPE",
+                null
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#oflqnrod",
+                "ERROR_TYPE",
+                {
+                    "type": "Not mutable type!",
+                    "error": true
+                }
+            ]
+        ]
+    },
+    {
+        "name": "print",
+        "id": "#byhgrueu",
+        "pos": [
+            1204,
+            452
+        ],
+        "points": [
+            [
+                "socket_input",
+                "#ncsjpvbr",
+                [],
+                "#ltzuiqkl",
+                "NUMBER_TYPE",
+                null
+            ]
+        ]
+    },
+    {
+        "name": "input",
+        "id": "#hycccsua",
+        "pos": [
+            652,
+            425
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [
+                    "#ulctrens"
+                ],
+                "#dejodidj",
+                "STRING_TYPE",
+                ""
+            ]
+        ]
+    }
+]

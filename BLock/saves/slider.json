@@ -1,0 +1,4502 @@
+[
+    {
+        "name": "slider number",
+        "id": "#mibtgnac",
+        "pos": [
+            507,
+            176
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#sorcpcaf",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#bqaalizv",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#zbpkvlmj",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#jvihscsq",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ujvccglp",
+        "pos": [
+            507,
+            196
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#mjmtfhqg",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#mycfsgik",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#vaeyngeq",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#oswlotqb",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#gywsggml",
+        "pos": [
+            507,
+            216
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#qonbrejr",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#cvogyruc",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#srmlrzbk",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#nplsgblz",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#hghsdnfs",
+        "pos": [
+            507,
+            236
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vpvvqrva",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#bmbrljiw",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#emtfqaam",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#zvewjycq",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ruamaefs",
+        "pos": [
+            507,
+            256
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#fudstcbs",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#jlhahwlu",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#kgnbjrgu",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#hrquhcsc",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#feotckgk",
+        "pos": [
+            507,
+            276
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#gfjmibrp",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#diqdvvpk",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#yfcvonub",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#varvzaob",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#iezjbvud",
+        "pos": [
+            507,
+            296
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#ohnsyvrf",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#rgftaynb",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#lolhnoid",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ygirjbwt",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#qbhcyaad",
+        "pos": [
+            507,
+            316
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#lelmtydc",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#bnsftopr",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#tosjqagk",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ffuuqnpr",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#pggzelsk",
+        "pos": [
+            507,
+            336
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#motzoedy",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#zqujczlk",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#azqgpakw",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#cvohyfgr",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#dfgfdrlu",
+        "pos": [
+            507,
+            356
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vbbrmvtw",
+                "NUMBER_TYPE",
+                7
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#uivsskkj",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#sjgozcdg",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ztajqjws",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#rtqjmomo",
+        "pos": [
+            527,
+            176
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#nzbabgyp",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#dbejqtit",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#cureqovs",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#dnhnzftc",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#dktmllpm",
+        "pos": [
+            527,
+            196
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#ltyornvs",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#dhcnzfsr",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#fkykpahs",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#kjcgntdd",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#uvzrccbe",
+        "pos": [
+            527,
+            216
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#wbeeehar",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#ylvcrqtt",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#gzsyzcft",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#vrcerezs",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#gkvlubyo",
+        "pos": [
+            527,
+            236
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#nenjbmyd",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#raigwlpu",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#apesgwty",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#pcndhpny",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#onrwopup",
+        "pos": [
+            527,
+            256
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vqkrfobb",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#hgamarqu",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#ngohdopc",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ijhwppzt",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#fkboapvc",
+        "pos": [
+            527,
+            276
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#dsqtjusu",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#pehfittc",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#umsdgogo",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#wywqockw",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ihkvdvir",
+        "pos": [
+            527,
+            296
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#napciotc",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#ebnslipa",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#qgzykuuy",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#bnokwsda",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#vdkabogp",
+        "pos": [
+            527,
+            316
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#gcvlcyiu",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#fhwtjqjl",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#lwjqcwqe",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#teckzufy",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#evwzkvva",
+        "pos": [
+            527,
+            336
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#pjbrawqy",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#uqjkrkoj",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#tjltmzmi",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#rmqepawm",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#wpuqkyqb",
+        "pos": [
+            527,
+            356
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vyzsznfm",
+                "NUMBER_TYPE",
+                5
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#fowchckj",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#rnfhlipr",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#rotazzce",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#prtkblgn",
+        "pos": [
+            547,
+            176
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#tuvhghdy",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#tdgnejvw",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#ybruvvmk",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#jzrbudtu",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ebllllcj",
+        "pos": [
+            547,
+            196
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#dbfzbkai",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#nwkdzccb",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#yequumgy",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#qjmwakrk",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#weiovocn",
+        "pos": [
+            547,
+            216
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#bnpuostm",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#oscswnkt",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#fjzhwwrq",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#gwjqldaj",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#bvvamskr",
+        "pos": [
+            547,
+            236
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#ckyjsdds",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#whbfebka",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#fijninpf",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#wztivuyq",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#rfovbkuo",
+        "pos": [
+            547,
+            256
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#iyzvwjms",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#mmmzinch",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#ywceqstp",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#cshjfkog",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#dwzudaqh",
+        "pos": [
+            547,
+            276
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#jgasmsmr",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#kjidsfvz",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#fpswhslp",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#aruhyhpq",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#plnlvclg",
+        "pos": [
+            547,
+            296
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#jvbklwkf",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#vtodpari",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#ndafwhrq",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#hditiphl",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#obiqrvog",
+        "pos": [
+            547,
+            316
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#mscepwnu",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#mwognyem",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#bikdtijw",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#niraqmta",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#futdjsld",
+        "pos": [
+            547,
+            336
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#jfbosgyg",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#lvrygbqd",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#ujcgvcvo",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#pkmapfek",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#dmcgilcc",
+        "pos": [
+            547,
+            356
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#znhmiteo",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#uehqooqm",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#zahcdwzu",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#mrqynmsm",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#aeobgoer",
+        "pos": [
+            567,
+            176
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#tjhevwvo",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#vlnicyhy",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#fismncbu",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#hlavnpzz",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#vucqmrkn",
+        "pos": [
+            567,
+            196
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#paabnwpf",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#tqkswgfo",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#nngwbuov",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ycnnavck",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#jsuddhhg",
+        "pos": [
+            567,
+            216
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#pvyjkerz",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#jzbrpnty",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#blfwralu",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#sypmpbqj",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#lzanpprl",
+        "pos": [
+            567,
+            236
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vznfnjop",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#mqeigzrb",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#mzckovrz",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#qhszmldv",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#gdgsogvc",
+        "pos": [
+            567,
+            256
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#mjuwkcnw",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#qgpnjivn",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#nnfqvqlm",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#wsylikms",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#mltphtcy",
+        "pos": [
+            567,
+            276
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#drlmbrdo",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#gskwmcrk",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#jtfhallm",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ocyonahy",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#hiugitbz",
+        "pos": [
+            567,
+            296
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#nygvyhut",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#ttjmower",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#cifvqdtv",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#oblbgqiv",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#alamfbtb",
+        "pos": [
+            567,
+            316
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#hcpbghbv",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#wyupwqqu",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#nljatcih",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#wqfywghk",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#tnhfasde",
+        "pos": [
+            567,
+            336
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#dfqiycsw",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#qgllgahq",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#fpendwzw",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#vantlpkz",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#gweihrhu",
+        "pos": [
+            567,
+            356
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#kpqsqjbg",
+                "NUMBER_TYPE",
+                9
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#btdnicig",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#togntzmj",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#slrtczjf",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#rnbsujun",
+        "pos": [
+            587,
+            176
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#loyaqsva",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#mbozylkn",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#erohjrmt",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#uycjizea",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#lzwknvcs",
+        "pos": [
+            587,
+            196
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#irmrihyw",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#gdzccdrf",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#getfkuds",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#etpfrpoi",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ufjcflgi",
+        "pos": [
+            587,
+            216
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#jinmaksg",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#vmcuunrw",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#mepnojah",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ollagrzw",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#tvipaeuz",
+        "pos": [
+            587,
+            236
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#wmsyqtvo",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#ofetumah",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#wguktuhr",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#bfacdnot",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#dbvqwejq",
+        "pos": [
+            587,
+            256
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#mejchfob",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#vnnpzzgn",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#zplcpkcw",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#rzurvpbo",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#lgrppyrl",
+        "pos": [
+            587,
+            276
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vswhkgrt",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#oyvfrhdi",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#jlzmsalz",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#nnbcbqsi",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#kgieajmp",
+        "pos": [
+            587,
+            296
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#ncotceay",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#onauvccn",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#rpphylms",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#yhctbyrq",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#fwygfdtb",
+        "pos": [
+            587,
+            316
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#rdhavmuy",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#tbauyzdy",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#znbyjhbd",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#lnmlehav",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#gmphcckh",
+        "pos": [
+            587,
+            336
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#bwcbltuw",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#lmofzkor",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#koiqbpma",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#imqabgnl",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#zlvmasbl",
+        "pos": [
+            587,
+            356
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#yyganuum",
+                "NUMBER_TYPE",
+                7
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#nwfumyyq",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#reftjjid",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#vrnbbdjh",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ynjoknkk",
+        "pos": [
+            607,
+            176
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vljqljwf",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#pkvetmcf",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#lgjqchta",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#nklelcyc",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#qcuikdse",
+        "pos": [
+            607,
+            196
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#defdkyjg",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#corkecab",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#clvuogzr",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#iztuhvur",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ejzueldn",
+        "pos": [
+            607,
+            216
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#emsfmadt",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#zpwigdsk",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#eekwkmqo",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#jolsskfh",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#epgojtjz",
+        "pos": [
+            607,
+            236
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#rfletejr",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#fcllkzyp",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#cawycmmh",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#hgkamtcz",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#bwgqiqew",
+        "pos": [
+            607,
+            256
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#eupjptid",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#fcwglhth",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#tcgwfaol",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#khjjkmpk",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#wvprqgke",
+        "pos": [
+            607,
+            276
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#rfyugijl",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#yfnhrwve",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#hvjynrqt",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#pdpgpynd",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ryyuwajj",
+        "pos": [
+            607,
+            296
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#jshsaudy",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#esvrmwff",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#vsifavtv",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#iydjtdrl",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#mitjahfy",
+        "pos": [
+            607,
+            316
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#mktyqpgc",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#yvgmchko",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#polmdzru",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#mptvggdy",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#idfyviyo",
+        "pos": [
+            607,
+            336
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#jkftdoom",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#hzgpnowh",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#pkmsbgzq",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#dgqffwjc",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ihqwlity",
+        "pos": [
+            607,
+            356
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#paeykogl",
+                "NUMBER_TYPE",
+                5
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#vnqfmgbl",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#rwfuvbaz",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#hfnunaii",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#hgawwcwc",
+        "pos": [
+            627,
+            176
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#mlrplyvm",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#gnyqwuvr",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#tsrdyqdq",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#moibldrc",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#dsuovqkm",
+        "pos": [
+            627,
+            196
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#dzmrfyzs",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#lgaqfuws",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#mscwtsfr",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#lfaribeg",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#kvtrdtpy",
+        "pos": [
+            627,
+            216
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#aivzhhvp",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#rngucjdk",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#gmrhhwws",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#dhfksisw",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#jsgiisfc",
+        "pos": [
+            627,
+            236
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#edqcejtf",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#csqwtewl",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#qbdjwtjz",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#uycclpit",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#qyqyhbss",
+        "pos": [
+            627,
+            256
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#bieljqss",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#tqcvitby",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#jlkqjfzd",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#opzewtlc",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#zvbglgel",
+        "pos": [
+            627,
+            276
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#qfyktdkj",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#jahawhzl",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#ywdikddw",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#uuofmimi",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#wfcrhdjf",
+        "pos": [
+            627,
+            296
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#enacmmbv",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#oudqnkyg",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#dneiikhq",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#iydaznhw",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#gugymgzs",
+        "pos": [
+            627,
+            316
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#fdpipjgm",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#fmsjygql",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#sgodjvqh",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#hirmavci",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#snlkdunv",
+        "pos": [
+            627,
+            336
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#pvrzagwd",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#opfeaphe",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#jhoibkdt",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#hgfsbhyh",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ztftqoup",
+        "pos": [
+            627,
+            356
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#eiqmeodj",
+                "NUMBER_TYPE",
+                4
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#qektjpfy",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#ikavwzvz",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#gsnuqslf",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#qpincwqd",
+        "pos": [
+            647,
+            176
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#fozmkvqd",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#pmucwquk",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#nhcfevvj",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#oueifgno",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#pvlgzqfi",
+        "pos": [
+            647,
+            196
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#irglcecm",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#gdobaqdv",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#erhsymhb",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#lywaywjy",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#lzzblbur",
+        "pos": [
+            647,
+            216
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#bouspkre",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#zajldqos",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#nokdhplj",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#vvtjovyc",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#eujkozdq",
+        "pos": [
+            647,
+            236
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#djfyqhwp",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#aqprpwik",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#uangltft",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#vkgisbuw",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#zmymkeoy",
+        "pos": [
+            647,
+            256
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vvetmplg",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#lipmqcqk",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#tnopqwmt",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#yjlfkiad",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#plwzbzsd",
+        "pos": [
+            647,
+            276
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#petngzae",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#wfqwzwvv",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#rdemayqh",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#aylzdlgz",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#bzqtofpn",
+        "pos": [
+            647,
+            296
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#ofnncsqi",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#ebiqpyvn",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#tonlsiow",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#lekhlwum",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#jcsgfeos",
+        "pos": [
+            647,
+            316
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#admzspmv",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#nhmgaitp",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#tnausnwd",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#smpgymss",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#jkseayfg",
+        "pos": [
+            647,
+            336
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#javrukqs",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#ygsmwbco",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#fhhecbpg",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#wqlkiwpi",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#rzyvisii",
+        "pos": [
+            647,
+            356
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#wbtcvajn",
+                "NUMBER_TYPE",
+                2
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#zsyylltb",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#jjshytnr",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#cwhemzrq",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#efbyflvj",
+        "pos": [
+            667,
+            176
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#ewahrqpa",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#untpnwro",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#mzhlzukp",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#cqsgfsoc",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#yzbcqqfm",
+        "pos": [
+            667,
+            196
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#wnkkojhp",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#cewmwyzm",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#icsmmesr",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#rscubrvl",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#onoltekp",
+        "pos": [
+            667,
+            216
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#pdllwdkt",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#lvfowsak",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#pwcdavby",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#dheldcnh",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#pjocokbu",
+        "pos": [
+            667,
+            236
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#zftmdbaq",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#pglnohsr",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#ivswkmrn",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#jinbeufk",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#adnmtctz",
+        "pos": [
+            667,
+            256
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#lbzsadew",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#cfnkmlez",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#qlckgbei",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#lulihtzc",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#ejhwjuvr",
+        "pos": [
+            667,
+            276
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#zmdbzthv",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#jvbjeadw",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#yizjkvnl",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ptqdyrfl",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#mpfuoldk",
+        "pos": [
+            667,
+            296
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#ffqsglga",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#zldmqskg",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#owgnzrkc",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ofdywnyd",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#qjdbgvpp",
+        "pos": [
+            667,
+            316
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#ahhvpkno",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#dkgsfunn",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#hnqzijdw",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#hthljlyq",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#davbolil",
+        "pos": [
+            667,
+            336
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#qvsquzem",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#tyeyqywe",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#gqgwojap",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#vhaaucwv",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#hqnjapus",
+        "pos": [
+            667,
+            356
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#stpgizwv",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#yrhcibrw",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#iefhkahz",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#rgkybfrz",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#pvjjicho",
+        "pos": [
+            687,
+            176
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#wegmfjjj",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#ogfledih",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#nirwnhac",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ewrdskjk",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#clrdbqnw",
+        "pos": [
+            687,
+            196
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#hwzvcurl",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#kgnmvpnl",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#dytgolcq",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#sgqvsvih",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#soobkosp",
+        "pos": [
+            687,
+            216
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#pzgnnqja",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#vdbioula",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#vnzuqrfk",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#iuzwdwtt",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#paodgizj",
+        "pos": [
+            687,
+            236
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#diufklou",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#wghwiqsm",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#quacbgkq",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#fhonphud",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#vtqymimc",
+        "pos": [
+            687,
+            256
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vqaufirk",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#ujsnedug",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#gbjiyecn",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#yloemskb",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#sfohnceu",
+        "pos": [
+            687,
+            276
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#wmereplg",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#sbuqpgvo",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#kujupwoo",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ozmynazn",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#mzzurtjt",
+        "pos": [
+            687,
+            296
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#adiabjba",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#okrrdupa",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#bwsbvzwq",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#hhpkgegl",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#jtijezmd",
+        "pos": [
+            687,
+            316
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vhbrlphf",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#jecvfnre",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#mcnjhzfq",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ljhyqjwg",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#peeeumka",
+        "pos": [
+            687,
+            336
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#mkhqdsec",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#sqarjyhy",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#vkjpzbsf",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#ekumelva",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    },
+    {
+        "name": "slider number",
+        "id": "#hvegqsbe",
+        "pos": [
+            687,
+            356
+        ],
+        "points": [
+            [
+                "socket_output",
+                null,
+                [],
+                "#vpiejumk",
+                "NUMBER_TYPE",
+                3
+            ],
+            [
+                "socket_input_1",
+                null,
+                [],
+                "#yqekovoy",
+                "NUMBER_TYPE",
+                0
+            ],
+            [
+                "socket_input_2",
+                null,
+                [],
+                "#dppqbhvi",
+                "NUMBER_TYPE",
+                10
+            ],
+            [
+                "socket_error_output",
+                null,
+                [],
+                "#pccqaajo",
+                "ERROR_TYPE",
+                {
+                    "type": null,
+                    "error": false
+                }
+            ]
+        ]
+    }
+]
